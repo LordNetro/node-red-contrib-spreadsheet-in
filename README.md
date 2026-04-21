@@ -4,7 +4,7 @@ Enhanced Node-RED nodes to read data from spreadsheet (Excel, ODS, etc.) files w
 
 This is a continuation of the original `node-red-contrib-spreadsheet-in` package with additional features and improvements.
 
-[![Run tests](https://github.com/YOUR_USERNAME/node-red-contrib-spreadsheet/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/node-red-contrib-spreadsheet/actions/workflows/tests.yml)
+[![Run tests](https://github.com/lordnetro/node-red-contrib-spreadsheet/actions/workflows/tests.yml/badge.svg)](https://github.com/lordnetro/node-red-contrib-spreadsheet/actions/workflows/tests.yml)
 
 ## Features
 
@@ -17,7 +17,7 @@ This is a continuation of the original `node-red-contrib-spreadsheet-in` package
 
 See the following screenshot:
 
-![example flow](https://raw.githubusercontent.com/YOUR_USERNAME/node-red-contrib-spreadsheet/master/examples/example.png "Example flow")
+![example flow](https://raw.githubusercontent.com/lordnetro/node-red-contrib-spreadsheet/master/examples/example.png "Example flow")
 
 You can also import the example flow from `examples/example.json` to your Node-RED.
 
